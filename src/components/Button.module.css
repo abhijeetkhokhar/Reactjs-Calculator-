@@ -1,0 +1,20 @@
+.calcbtn{
+    width: 25%;
+    font-size: 40px;
+    border-radius: 100px;
+    border: 2px solid black;
+    box-sizing: 0px 0px 20px;
+    background: rgb(251,63,63);
+    background: radial-gradient(circle, rgba(251,63,63,1) 0%, rgba(252,218,70,1) 88%);
+}
+
+.clearbtn{
+    width: 75%;
+    font-size: 40px;
+    border-radius: 100px;
+    
+}
+
+.calcbtn:hover{
+    color: aquamarine;
+}
